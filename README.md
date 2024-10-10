@@ -10,7 +10,7 @@ This repository showcases a variety of Verilog projects categorized into behavio
 
 | Project Name                                 | Behavioral Design Code | Structural Design Code | Physical Design Code | Difficulty Level |
 |----------------------------------------------|-------------------------|------------------------|----------------------|-------------------|
-| 1. AND/OR/NAND Gates                          | [Code](#)               | [Code](#)              | [Code](#)            | Beginner          |
+| 1. AND/OR/NAND Gates                          | [Code](#)               | [Code](#https://github.com/taybabusra/verilog/blob/main/nand_gate/nand_be.v)              | [Code](#)            | Beginner          |
 | 2. 2:1 Multiplexer                            | [Code](#)               | [Code](#)              | [Code](#)            | Beginner          |
 | 3. 4:1 Multiplexer                            | [Code](#)               | [Code](#)              | [Code](#)            | Beginner          |
 | 4. Half Adder                                 | [Code](#)               | [Code](#)              | [Code](#)            | Beginner          |
