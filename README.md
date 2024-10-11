@@ -765,6 +765,3 @@ The projects are categorized as:
 - **Expert**: Advanced projects focusing on processor design, signal processing, and physical implementation.
 
 ---
-
-Feel free to explore, clone, and experiment with each project. Contributions are welcome!
-
