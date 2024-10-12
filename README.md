@@ -32,7 +32,7 @@ This repository showcases a variety of Verilog projects categorized by difficult
   <tr>
     <td>02</td>
     <td>2:1 Multiplexer</td>
-    <td><a href="#">Code</a></td>
+    <td><a href="https://github.com/taybabusra/verilog/tree/main/multiplexer">Code</a></td>
     <td><a href="#">Code</a></td>
     <td><a href="#">Code</a></td>
     <td><code>Beginner</code></td>
