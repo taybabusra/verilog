@@ -1,10 +1,10 @@
 RTL Design
 <img width="850" alt="image" src="https://github.com/user-attachments/assets/9305e1bc-cc49-4195-8325-2dca282a1878">
-structural code is based on RTL design. the inside wrire of design is known as register.
+structural code is based on RTL design. the inside wrire of design is known as register.\\
 Truth Table: \
 a---b---y \
-0   0   1  \
-0   1   1  \
+0---0---1  \
+0---1---1  \
 1   0   1  \
 1   1   0  \
 Waveform: 
