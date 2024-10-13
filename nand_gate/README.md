@@ -6,7 +6,7 @@ a---b---y \
 0---0---1  \
 0---1---1  \
 1---0---1  \
-1   1   0  \
+1---1---0  \
 Waveform: 
 1. Functional
    <img width="958" alt="image" src="https://github.com/user-attachments/assets/06fef6ac-e316-44cc-97db-cb65b09cd14b">
