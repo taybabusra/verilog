@@ -5,7 +5,7 @@ Truth Table: \
 a---b---y \
 0---0---1  \
 0---1---1  \
-1   0   1  \
+1---0---1  \
 1   1   0  \
 Waveform: 
 1. Functional
