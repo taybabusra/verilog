@@ -64,7 +64,7 @@ This repository showcases a variety of Verilog projects categorized by difficult
   <tr>
     <td>06</td>
     <td>4-bit Ripple Carry Adder</td>
-    <td><a href="#">Code</a></td>
+    <td><a href="https://github.com/taybabusra/verilog/tree/main/ripple_carry_adder">Code</a></td>
     <td><a href="#">Code</a></td>
     <td><a href="#">Code</a></td>
     <td><code>Beginner</code></td>
