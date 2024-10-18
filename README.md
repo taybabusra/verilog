@@ -765,3 +765,4 @@ The projects are categorized as:
 - **Expert**: Advanced projects focusing on processor design, signal processing, and physical implementation.
 
 ---
+reference :https://github.com/vinayravipati/100-Days-of-RTL-Verification
