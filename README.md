@@ -1,4 +1,4 @@
-# verilog
+# Verilog
 
 ## This reporsitory is aim to crate 100 verilog project using quartuss software including Y domain design scheme of VLSI
 
@@ -765,4 +765,3 @@ The projects are categorized as:
 - **Expert**: Advanced projects focusing on processor design, signal processing, and physical implementation.
 
 ---
-reference :https://github.com/vinayravipati/100-Days-of-RTL-Verification
